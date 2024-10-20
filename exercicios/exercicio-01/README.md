@@ -1,3 +1,3 @@
 # exercicio-01
-*Primeiro Exercicio*
+*Primeiro Exercicio*  
 Enunciado:
