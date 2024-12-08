@@ -1,8 +1,8 @@
 
 # Feito pelos alunos:
-Riquelmy da Silva Ricarte
+*Riquelmy da Silva Ricarte
 
-Pedro Henrique Alves Barbosa
+*Pedro Henrique Alves Barbosa
 
 # Enunciado:
 
