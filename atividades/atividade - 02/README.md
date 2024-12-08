@@ -4,7 +4,8 @@ Riquelmy da Silva Ricarte
 
 Pedro Henrique Alves Barbosa
 
-#Enunciado:
+# Enunciado:
+
 Usar o diagrama do banco de dados modelo do Tutorial de Sqlite localizado em https://www.sqlitetutorial.net/sqlite-sample-database/ e refaze-lo usando o PlantUML. 
 Seguir os seguintes padrões:
 1) Nome de Tabela: Usar o prefixo TB_. Exemplo: Tabela de Alunos -> TB_ALUNOS;
