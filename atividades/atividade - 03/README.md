@@ -1,5 +1,5 @@
 # Feito por:
-## Riquelmy da Silva Ricarte
+Riquelmy da Silva Ricarte🌟
 
 # Enunciado:
 Crie um banco de dados SCA_242.bd. 
