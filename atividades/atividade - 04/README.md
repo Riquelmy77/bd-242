@@ -1,5 +1,5 @@
 # Feito por:
-Riquelmy da Silva Ricarte
+Riquelmy da Silva Ricarte🌟
 
 # Enunciado:
 1) Criar uma tabela TB_CURSO com os seguintes atributos (ID, NOME);
