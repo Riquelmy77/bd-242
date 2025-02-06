@@ -1,6 +1,6 @@
-## Atividade - 07
+# Atividade - 07
 
-# Feito por: Pedro Henrique Alves Barbosa e Riquelmy da Silva Ricarte
+## Feito por: Pedro Henrique Alves Barbosa e Riquelmy da Silva Ricarte
 
  Criar um Banco de Dados usando o PHPMyAdmin usando o PlayWithDocker. 
 Evidenciar as tabelas e seus objetos e relacionamentos.
